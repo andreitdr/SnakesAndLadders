@@ -1,4 +1,4 @@
-#include "CreateGameView.h"
+#include "creategameview.h"
 #include "ui_creategameview.h"
 #include <iostream>
 #include "../../state/UserState.h"

@@ -86,7 +86,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(frontend
             MANUAL_FINALIZATION
             ${PROJECT_SOURCES}
-            resources/Resources.qrc
+            resources/resources.qrc
             views/homeView/homeview.h views/homeView/homeview.cpp views/homeView/homeview.ui
             views/createGameView/creategameview.h views/createGameView/creategameview.cpp views/createGameView/creategameview.ui
             views/joinGameView/joingameview.h views/joinGameView/joingameview.cpp views/joinGameView/joingameview.ui

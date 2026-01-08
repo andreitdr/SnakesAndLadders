@@ -9,8 +9,8 @@
 #include <string>
 #include <vector>
 #include <nlohmann/json.hpp>
-#include "../Models/Player.h"
-#include "../Core/BaseResponse.h"
+#include "../models/Player.h"
+#include "../core/BaseResponse.h"
 #include "../core/BaseService.h"
 #include "../core/ApiEndpoints.h"
 #include "../models/Lobby.h"

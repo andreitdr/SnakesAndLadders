@@ -8,8 +8,8 @@
 #include <string>
 #include <nlohmann/json.hpp>
 #include <cpr/cpr.h>
-#include "../Core/BaseResponse.h"
-#include "../Observers/Subject.h"
+#include "../core/BaseResponse.h"
+#include "../observers/Subject.h"
 
 class BaseService : public Subject {
 public:

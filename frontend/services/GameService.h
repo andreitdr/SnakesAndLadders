@@ -11,11 +11,11 @@
 #include <functional>
 #include <qstring.h>
 #include <nlohmann/json.hpp>
-#include "../Models/Game.h"
-#include "../Models/GameStats.h"
-#include "../Core/BaseResponse.h"
-#include "../Core/BaseService.h"
-#include "../Core/ApiEndpoints.h"
+#include "../models/Game.h"
+#include "../models/GameStats.h"
+#include "../core/BaseResponse.h"
+#include "../core/BaseService.h"
+#include "../core/ApiEndpoints.h"
 
 class GameService : public BaseService {
 public:
