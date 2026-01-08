@@ -2,7 +2,6 @@
 
 A cross-platform implementation of the classic Snakes and Ladders board game, featuring a C++ server and a Qt-based frontend.
 
-![][image1]
 
 ## **Project Structure**
 
